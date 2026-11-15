@@ -1,7 +1,7 @@
 # Buổi 01 – Đệ quy
 
-- **Họ tên:** Trần Gia Huy
-- **MSV:** 10125157
+- **Họ tên:** Nguyễn Quốc Việt
+- **MSV:** 10125326
 - **Lớp:** 10125O.1
 
 ## 1. Bài đã làm
